@@ -40,8 +40,7 @@ These projects are designed to help me practice and improve my programming skill
 ## 📸 Screenshots
 
 ### ✅ Simple Calculator
-![Calculator Screenshot] https://github.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/blob/main/images/calculator%20.%20png/Screenshot%202025-07-07%20013732.png
-
+![Calculator Screenshot]images/calculator . png/Screenshot 2025-07-07 013732.png
 ---
 
 ### ✅ Kaun Banega Crorepati (KBC Quiz)
