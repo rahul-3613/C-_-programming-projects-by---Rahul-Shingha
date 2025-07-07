@@ -41,12 +41,11 @@ These projects are designed to help me practice and improve my programming skill
 
 ## 📸 Screenshots
 
-> ✨ **✅ নিচের লিঙ্কগুলোতে ➜ নিজের RAW GitHub Image link বসিয়ে নাও ✅**
 
 ---
 
 ### ✅ Simple Calculator
-![Calculator Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/calculator.png)
+![Calculator Screenshot](![Image](https://github.com/user-attachments/assets/cb3fe6aa-2b9f-4fb0-8c58-afe7b56ae214))
 
 ---
 
