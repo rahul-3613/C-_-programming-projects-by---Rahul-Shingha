@@ -38,6 +38,7 @@ These projects are designed to help me practice and improve my programming skill
   Terminal-based Snake game implemented in C.
 
 - **Project 5:** Digital Clock
+- ![Image](https://github.com/user-attachments/assets/67e11e72-393c-4e4e-be55-8e33a7cafb5b)
 ![Image](https://github.com/user-attachments/assets/a25bb3bd-9e3b-4284-8f9e-9cc0690c0133)
 
   Displays a real-time digital clock in the console using C.
