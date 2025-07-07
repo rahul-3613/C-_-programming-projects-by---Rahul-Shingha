@@ -46,7 +46,7 @@ These projects are designed to help me practice and improve my programming skill
 ---
 
 ### ✅ Simple Calculator
-![Calculator Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/calculator.png)
+![Calculator Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/c.png)
 
 ---
 
