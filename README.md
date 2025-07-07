@@ -15,7 +15,8 @@ These projects are designed to help me practice and improve my programming skill
 
 ## ✅ 📌 Projects List
 
-- **Project 1:** Simple Calculator  
+- **Project 1:** Simple Calculator
+- ![Image](https://github.com/user-attachments/assets/f2bfe0b8-537f-465c-858a-f5e079c4e0bc)
   A basic calculator with operations like add, subtract, multiply, divide, modulus, and power.
 
 - **Project 2:** Kaun Banega Crorepati (KBC Quiz Game)  
@@ -24,7 +25,7 @@ These projects are designed to help me practice and improve my programming skill
 - **Project 3:** Number Guessing Game  
   Classic game where you guess a random number.
 
-- **Project 4:** Snake Game  
+- **Project 4:** Snake Game 
   Terminal-based Snake game implemented in C.
 
 - **Project 5:** Digital Clock  
