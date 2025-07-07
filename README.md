@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f2bfe0b8-537f-465c-858a-f5e079c4e0bc)# 🌟 C Projects by Rahul Shingha
+# 🌟 C Projects by Rahul Shingha
 
 Welcome to my collection of C language projects!  
 These projects are designed to help me practice and improve my programming skills.
