@@ -19,7 +19,8 @@ These projects are designed to help me practice and improve my programming skill
 - ![Image](https://github.com/user-attachments/assets/f2bfe0b8-537f-465c-858a-f5e079c4e0bc)
   A basic calculator with operations like add, subtract, multiply, divide, modulus, and power.
 
-- **Project 2:** Kaun Banega Crorepati (KBC Quiz Game)  
+- **Project 2:** Kaun Banega Crorepati (KBC Quiz Game)
+- ![Image](https://github.com/user-attachments/assets/00682ff0-35cb-41d8-a6b3-0639f899e128)
   A text-based KBC quiz game with lifelines and questions loaded from a file.
 
 - **Project 3:** Number Guessing Game  
