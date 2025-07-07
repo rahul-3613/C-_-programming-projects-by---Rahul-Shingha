@@ -43,8 +43,7 @@ These projects are designed to help me practice and improve my programming skill
 ---
 
 ### ✅ Simple Calculator
-![Calculator Screenshot]   ![Image](https://github.com/user-attachments/assets/e41b7020-a5da-4f9e-99ab-2af01e4627c3)
-
+![Image](https://github.com/user-attachments/assets/e41b7020-a5da-4f9e-99ab-2af01e4627c3)
 ---
 
 ### ✅ Kaun Banega Crorepati (KBC Quiz)
