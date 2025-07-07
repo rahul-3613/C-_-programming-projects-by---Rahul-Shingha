@@ -22,17 +22,24 @@ These projects are designed to help me practice and improve my programming skill
 
 - **Project 2:** Kaun Banega Crorepati (KBC Quiz Game)
 - ![Image](https://github.com/user-attachments/assets/00682ff0-35cb-41d8-a6b3-0639f899e128)
-  ![Image](https://github.com/user-attachments/assets/a1136463-9970-46ff-ad51-3a755bb85f18)
+- 
   A text-based KBC quiz game with lifelines and questions loaded from a file.
 
-- **Project 3:** Number Guessing Game  
+- **Project 3:** Number Guessing Game
+![Image](https://github.com/user-attachments/assets/0e713ec7-d789-4d1a-9074-0e8f2e14c039)
+
   Classic game where you guess a random number.
 
 - **Project 4:** Snake Game
+- ![Image](https://github.com/user-attachments/assets/0178db9e-d525-4b6c-9d1a-74b76f801455)
+
 - https://github.com/user-attachments/assets/fde1b563-7758-4cd0-837d-7d6b425c1564
+- 
   Terminal-based Snake game implemented in C.
 
-- **Project 5:** Digital Clock  
+- **Project 5:** Digital Clock
+![Image](https://github.com/user-attachments/assets/a25bb3bd-9e3b-4284-8f9e-9cc0690c0133)
+
   Displays a real-time digital clock in the console using C.
 
 ---
@@ -42,31 +49,3 @@ These projects are designed to help me practice and improve my programming skill
 1️⃣ Clone this repository:  
 ```bash
 
----
-
-## 📸 Screenshots
----
-
-### ✅ Simple Calculator
-![Image](https://github.com/user-attachments/assets/e41b7020-a5da-4f9e-99ab-2af01e4627c3)
----
-
-### ✅ Kaun Banega Crorepati (KBC Quiz)
-![KBC Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/kbc.png)
-
----
-
-### ✅ Number Guessing Game
-![Guessing Game Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/guess.png)
-
----
-
-### ✅ Snake Game
-![Snake Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/snake.png)
-
----
-
-### ✅ Digital Clock
-![Clock Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/clock.png)
-
----
