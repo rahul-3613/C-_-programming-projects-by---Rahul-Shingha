@@ -37,26 +37,35 @@ These projects are designed to help me practice and improve my programming skill
 1️⃣ Clone this repository:  
 ```bash
 
+---
+
 ## 📸 Screenshots
 
+> ✨ **✅ নিচের লিঙ্কগুলোতে ➜ নিজের RAW GitHub Image link বসিয়ে নাও ✅**
+
+---
+
 ### ✅ Simple Calculator
-![Calculator Screenshot]images/calculator .(https://github.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/blob/1df98691fd8ded2d61242d92dac954e3b5008028/snake.png/Screenshot%202025-07-07%20014214.png)
+![Calculator Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/calculator.png)
+
 ---
 
 ### ✅ Kaun Banega Crorepati (KBC Quiz)
-![KBC Screenshot] https://github.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/blob/main/images/kbc%20.%20png/Screenshot%202025-07-07%20002154.png
+![KBC Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/kbc.png)
 
 ---
 
 ### ✅ Number Guessing Game
-![Guessing Game Screenshot] https://github.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/blob/main/images/guess%20.%20png/Screenshot%202025-07-07%20014047.png
+![Guessing Game Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/guess.png)
 
 ---
 
 ### ✅ Snake Game
-![Snake Screenshot]https://github.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/blob/main/images/snake.png/Screenshot%202025-07-07%20014214.png
+![Snake Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/snake.png)
 
 ---
 
 ### ✅ Digital Clock
-![Clock Screenshot]https://github.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/blob/main/images/clock.png/Screenshot%202025-07-07%20014450.png
+![Clock Screenshot](https://raw.githubusercontent.com/rahul-3613/C-_-programming-projects-by---Rahul-Shingha/main/clock.png)
+
+---
